@@ -85,9 +85,15 @@
 
 # 📊 GitHub Stats:
 <p align="center">
+  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbishakePriyan&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+  </div>
+  <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=AbishakePriyan&theme=dark&hide_border=false" />
+  </div>
+  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbishakePriyan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  </div>
 </p>
 
 
