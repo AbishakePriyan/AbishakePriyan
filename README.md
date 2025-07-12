@@ -3,13 +3,13 @@
 </h1>
 
 # 💫 About Me:
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZoZjliZGI2YjVuMjV0b2dvb3AzZHdqbmFkcTFkbnhvcG55ZHVpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OV1bLOIWwIXRxpXlN/giphy.gif" width="450" alt="Code Animation" />
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZoZjliZGI2YjVuMjV0b2dvb3AzZHdqbmFkcTFkbnhvcG55ZHVpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OV1bLOIWwIXRxpXlN/giphy.gif" width="400" alt="Code Animation" />
 
 - 🎯 I turn project ideas into polished web apps that actually work
 
 - 🚀 Currently working with: `Firebase`, `Vercel`, `Reactjs`,`TailwindCSS`
   
-- 💬 Ask me about: `React.js`, `Tailwind CSS`, `Firebase`, `Deployment`
+- 💬 Did Project in: `React.js`, `Tailwind CSS`, `Firebase`, `Deployment`
   
 - 🛠️ I enjoy building full-stack projects with pixel-perfect design and smooth UX
 
