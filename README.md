@@ -24,4 +24,11 @@ Hi there! I'm Abishake Priyan, an engineering student passionate about building 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbishakePriyan&icon=7&color=1)](https://visitcount.itsvg.in)
 
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
