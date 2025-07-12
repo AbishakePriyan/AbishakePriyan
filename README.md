@@ -21,7 +21,7 @@
   <a href="mailto:kabishake191@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://discord.com/users/your_discord_id" target="_blank">
+  <a href="https://discord.com/users/astrophile_ap" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://instagram.com/your_instagram_username" target="_blank">
