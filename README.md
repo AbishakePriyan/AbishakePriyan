@@ -75,7 +75,7 @@
 
 ## 💻 My Gear Setup
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTZ0bGZ5MnBxc2NpZnRnZ3MyaDhycHphejVvem1hZDVvdXdiNjVkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I0UeKfXKf9K3Y7ezrl/giphy.gif" width="300" alt="Code Animation" />
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDMweTBkeTlibWs4dTVyYWlreW42M3c3M3owZjc3dW94OHo4eWc2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sFQqfas2Y2bAcy5CfG/giphy.gif" height= "145" width="300" alt="Code Animation" />
 
 | 💻 Laptop              | 🧠 Processor       | 🎮 Graphics         | 🔋 RAM   |
 |------------------------|---------------------|----------------------|----------|
