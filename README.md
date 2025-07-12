@@ -75,6 +75,8 @@
 
 ## 💻 My Gear Setup
 
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHB1cGIxNTlqNmc0YnA1dTA0bmF5bnR2Z2NpbWVyZ3JwajNlbzllaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T6281Vrwc7RfcgIQvF/giphy.gif" width="300" alt="Code Animation" />
+
 | 💻 Laptop              | 🧠 Processor       | 🎮 Graphics         | 🔋 RAM   |
 |------------------------|---------------------|----------------------|----------|
 | Asus ROG STRIX         | Intel i5-13450HX    | Nvidia RTX 3050      | 16GB     |
