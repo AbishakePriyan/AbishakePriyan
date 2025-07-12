@@ -1,10 +1,17 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Abishake+Priyan" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&pause=1000&color=2CF724&center=true&vCenter=true&width=500&lines=Hi+I'm+Abishake+Priyan" alt="Typing Animation" />
 </h1>
 
 # 💫 About Me:
-Hi there! I'm Abishake Priyan, an engineering student passionate about building intelligent systems that bridge the gap between hardware and software. I explore cutting-edge technologies like 5G, AI/ML, IoT, and AR/VR, and apply them in real-world projects  and interactive web apps.
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZoZjliZGI2YjVuMjV0b2dvb3AzZHdqbmFkcTFkbnhvcG55ZHVpOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OV1bLOIWwIXRxpXlN/giphy.gif" width="450" alt="Code Animation" />
 
+- 🎯 I turn project ideas into polished web apps that actually work
+
+- 🚀 Currently working with: `Firebase`, `Vercel`, `Reactjs`,`TailwindCSS`
+  
+- 💬 Ask me about: `React.js`, `Tailwind CSS`, `Firebase`, `Deployment`
+  
+- 🛠️ I enjoy building full-stack projects with pixel-perfect design and smooth UX
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abishake-priyan-88351a2a8) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabishake191@gmail.com) ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
